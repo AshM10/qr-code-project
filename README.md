@@ -19,7 +19,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://qr-code-ashmoreno.netlify.app)
+- Live Site URL: [Netlify](https://qr-code-ashmoreno.netlify.app)
 
 ## My process
 
