@@ -34,6 +34,7 @@ img {
   padding-top: 14px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
+  box-shadow: 10px 10px 8px hsl(220, 7%, 84%);
 }
 
 footer .attribution {
