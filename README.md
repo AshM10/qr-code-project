@@ -12,6 +12,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ### Screenshot
 
@@ -40,3 +41,9 @@ By breaking down the project into smaller steps, it got easier for me and I felt
 - Website - [Ash Moreno](https://www.ashmoreno.dev)
 - Frontend Mentor - [@AshM10](https://www.frontendmentor.io/profile/AshM10)
 - Twitter - [@sexy_gravy](https://twitter.com/sexy_gravy)
+
+## Acknowledgments
+
+Thanks Cagri Kizilkan for looking through my solution! 😍
+
+![](images/cgrkzlkn.jpg)
