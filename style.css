@@ -1,4 +1,44 @@
 body {
   font-family: "Outfit", sans-serif;
-  background-color: black;
+  background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+  text-align: center;
+  font-size: 22px;
+  line-height: 1.3;
+  margin: 20px;
+  font-weight: 700;
+}
+
+p {
+  text-align: center;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  padding: 0 20px 40px 20px;
+  line-height: normal;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+
+  border-radius: 8px;
+}
+
+.container {
+  max-width: 330px;
+  margin-top: 170px;
+
+  padding-top: 14px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 16px;
+}
+
+.attribution {
+  text-align: center;
+  line-height: 1;
+  opacity: 70%;
+  margin-bottom: 170px;
 }
